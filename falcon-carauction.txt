@@ -1,5 +1,5 @@
 {
-"version":"1.3",
-"notes":"Big update",
+"version":"1.4",
+"notes":"Fixing several issues and adding new features",
 "date":"12/12/2023"
 }
