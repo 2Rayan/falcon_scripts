@@ -1,5 +1,5 @@
 {
-"version":"1.5",
-"notes":"A minor update to fix new issues post-update 1.4 (Please read the details in our discord update-log channel)",
-"date":"12/20/2023"
+"version":"1.6",
+"notes":"This version is a minor update aimed at addressing issues. Please refer to our discord update-log channel for detailed information on the changes and fixes implemented in this version.",
+"date":"1/30/2024"
 }
