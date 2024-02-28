@@ -1,5 +1,5 @@
 {
-"version":"1.7",
+"version":"1.8",
 "notes":"This is a major update. Please check the update-log channel on discord for details.",
 "date":"2/16/2024"
 }
