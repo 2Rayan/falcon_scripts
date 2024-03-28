@@ -1,5 +1,5 @@
 {
-"version":"1.8",
-"notes":"All issues have been resolved. Please check the #update-log channel in our Discord.",
-"date":"2/28/2024"
+"version":"1.9",
+"notes":"All issues, particularly those related to QBCore, have been resolved in version 1.9. Please refer to the #update-log channel in our Discord for more details.",
+"date":"3/28/2024"
 }
